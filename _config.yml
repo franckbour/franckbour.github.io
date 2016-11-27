@@ -20,7 +20,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 location: Nancy, France
 email: franckbour@gmail.com
-phone: '+33698892707'
+phone: 
 website: franckbour.github.io #do not add http://
 viadeo: franck.bour2
 linkedin: franck-b-274bab23
